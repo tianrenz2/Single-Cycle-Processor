@@ -1,0 +1,321 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2
+vadder
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1519082652
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+IchCWeXo<jXC@O:WmRl1LM1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+R0
+Z4 w1517282306
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/adder.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/adder.sv
+L0 3
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1519082652.000000
+Z7 !s107 /users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/RISC_V.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/Datapath.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/Controller.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/RegFile.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/alu.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/ALUController.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/instructionmemory.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/datamemory.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/mux2.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/imm_Gen.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/flopr.sv|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/adder.sv|
+Z8 !s90 -quiet|-64|-sv|-f|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/rtl.cfg|
+!i113 0
+Z9 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R1
+R2
+!i10b 1
+!s100 IM7k301Wb@oaz2WHfo61D1
+Iok`_T=HCn2V5NVkB?cZ[Y3
+R3
+!s105 alu_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/alu.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/alu.sv
+Z10 L0 23
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vALUController
+R1
+R2
+!i10b 1
+!s100 PA`;V@FD[8bHk9XfiY]L>2
+Ig4^S6fU`Mb[IbLM`3bh@b1
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/ALUController.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/ALUController.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@a@l@u@controller
+vController
+R1
+R2
+!i10b 1
+!s100 5QN7YE0U2EUBOF6RP7H=_3
+IKf3ZG43GX?UEI;78Q[dBg1
+R3
+!s105 Controller_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/Controller.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/Controller.sv
+Z11 L0 22
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@controller
+vdatamemory
+R1
+R2
+!i10b 1
+!s100 jnZAR?6OKKaNBcUbK:ocM3
+IKa4:oeGQE_jlWGBMTWN<J0
+R3
+!s105 datamemory_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/datamemory.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/datamemory.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vDatapath
+R1
+R2
+!i10b 1
+!s100 `0FNNzkB<_1;HoeAdQXQR0
+IdH2[S]P=@e1D@?=>ddClH1
+R3
+!s105 Datapath_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/Datapath.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/Datapath.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@datapath
+vflopr
+R1
+R2
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+IUJC=C:K?z>^Gg]cCBNW3A2
+R3
+!s105 flopr_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/flopr.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/flopr.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vimm_Gen
+R1
+R2
+!i10b 1
+!s100 Ym^DA7Q=VG_aRczRZS_o]3
+Ia;3g7TmHS=^fG`M=WJ@LT1
+R3
+!s105 imm_Gen_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/imm_Gen.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/imm_Gen.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nimm_@gen
+vinstructionmemory
+R1
+R2
+!i10b 1
+!s100 `WgcR79k6EBbWN2nDQE0^2
+I]VXgl4ME][cLzFhdDNY393
+R3
+!s105 instructionmemory_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/instructionmemory.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/instructionmemory.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux2
+R1
+R2
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+ICG9Xg2fcXUaT37GOiQ^oX0
+R3
+!s105 mux2_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/mux2.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/mux2.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vRegFile
+R1
+R2
+!i10b 1
+!s100 K7e_M^@0VSmLzTMdBAzD51
+Im9O9bnV6b;gg9[?e<Va;l1
+R3
+!s105 RegFile_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/RegFile.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/RegFile.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@file
+vriscv
+R1
+R2
+!i10b 1
+!s100 6QH9T_jSCAJo5D_6085U>3
+I@GG^nDJMPGUBQmaVjRTHA1
+R3
+!s105 RISC_V_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/RISC_V.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/design/RISC_V.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vtb_top
+R1
+R2
+!i10b 1
+!s100 Ac4ganCOBnoOOlMGTCO4;3
+I40l4HQ_ZI4PNnYe?Wfl<F0
+R3
+!s105 tb_top_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/verif/tb_top.sv
+F/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/verif/tb_top.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+!s107 /users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/verif/tb_top.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad2/2015/fall/tianrenz/EECS112L/lab-2/verif/tb.cfg|-work|work|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+R2
+VNV:>jkcNTn9NflBg7dHXT3
+04 6 4 work tb_top fast 0
+o-quiet +acc -work work
+ntb_top_opt
+OL;O;10.4c;61

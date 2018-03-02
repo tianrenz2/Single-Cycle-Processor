@@ -1,0 +1,19 @@
+Loading db file '/ecelib/linware/synopsys15/dc/libraries/syn/gtech.db'
+Loading db file '/ecelib/linware/synopsys15/dc/libraries/syn/standard.sldb'
+  Loading link library 'saed32lvt_tt1p05vn40c'
+  Loading link library 'saed32sram_tt1p05vn40c'
+  Loading link library 'gtech'
+Running PRESTO HDLC
+Presto compilation completed successfully.
+Elaborated 1 design.
+Current design is now 'riscv'.
+Information: Building the design 'Controller'. (HDL-193)
+Presto compilation completed successfully.
+Information: Building the design 'ALUController'. (HDL-193)
+Presto compilation completed successfully.
+Information: Building the design 'Datapath'. (HDL-193)
+Presto compilation completed successfully.
+Error:  /users/ugrad2/2015/fall/tianrenz/EECS112L/lab/design/Datapath.sv:71: The width of port p2 on instance next_pc2 of design mux2 is inconsistent with other instantiations of the same design. (ELAB-369)
+Error:  Cannot resolve pin p2[31] on cell mux2:next_pc2. (ELAB-327)
+Warning: Design 'riscv' has '1' unresolved references. For more detailed information, use the "link" command. (UID-341)
+1
